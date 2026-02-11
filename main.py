@@ -4,10 +4,10 @@ from product_manager import ProductManager
 manager = ProductManager()
 
 manager.add_product(Product("Laptop", 3200, 6))
-manager.add_product(Product("Miš", 40, 10))
+manager.add_product(Product("Tv", 40, 10))
 manager.add_product(Product("Tastatura", 60, 7))
 
-#manager.display_products() 
+print("Ukupna vrednost inventara:", manager.total_inventory_value())
 
 from product import Product
 
