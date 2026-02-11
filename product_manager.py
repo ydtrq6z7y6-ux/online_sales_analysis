@@ -11,3 +11,11 @@ class ProductManager:
 
     def total_inventory_value(self):
         return sum(p.price * p.quantity for p in self.products)
+
+     # Dodaj metod u ProductManager (product_manager.py)
+    def remove_product(self, name: str) -> bool:
+        for i, p in enumerate(self.products):
+            if p.name.lower() == name.lower():
+                del self.products[i]
+                return True
+        return False
