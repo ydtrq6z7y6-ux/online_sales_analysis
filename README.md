@@ -132,7 +132,10 @@ This ensures that sensitive and unnecessary files are not tracked or pushed to G
 How to Run the Project
 1. Clone the repository
 git clone https://github.com/ydtrq6z7y6-ux/online_sales_analysis
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4a762769100cc89dd9347f68c020053706a7ce2d
 2. Navigate to the project folder
 cd online_sales_analysis
 
@@ -165,6 +168,11 @@ Structuring a professional repository
 
 
 Author
+<<<<<<< HEAD
 
 Tina Saric
 GitHub: https://github.com/ydtrq6z7y6-ux
+=======
+Tina Saric
+GitHub: https://github.com/ydtrq6z7y6-ux
+>>>>>>> 4a762769100cc89dd9347f68c020053706a7ce2d
