@@ -131,8 +131,7 @@ This ensures that sensitive and unnecessary files are not tracked or pushed to G
 
 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/online_sales_analysis.git
-
+git clone https://github.com/ydtrq6z7y6-ux/online_sales_analysis
 2. Navigate to the project folder
 cd online_sales_analysis
 
@@ -162,6 +161,5 @@ Handling merge conflicts
 Structuring a professional repository
 
 Author
-
-Tina Rako Saric
+Tina Saric
 GitHub: https://github.com/ydtrq6z7y6-ux
